@@ -4,7 +4,7 @@ go 1.16
 
 require (
 	github.com/agiledragon/gomonkey v2.0.2+incompatible
-	github.com/dream-gate-hub/dtm-driver-micro v0.0.0-20221218173108-38bb2679a456
+	github.com/dream-gate-hub/etmarket-infra/databus/dtm/driver v0.0.0-20221220034010-c82704f4c176
 	github.com/dtm-labs/dtmdriver v0.0.6
 	github.com/dtm-labs/dtmdriver-dapr v0.0.1
 	github.com/dtm-labs/dtmdriver-ego v0.1.8
